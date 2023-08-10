@@ -1,0 +1,19 @@
+:root {
+    --cor-01: #00cc75;
+    --cor-02: #19ccb4;
+    --cor-03: #246e64;
+    --cor-04: #274c5b;
+    --cor-05: #d9f5e6;
+    --cor-06: #d9f5e6;
+  }
+  
+  /* geral */
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /*   outline: 1px solid black; */
+    font-family: Roboto;
+  }
